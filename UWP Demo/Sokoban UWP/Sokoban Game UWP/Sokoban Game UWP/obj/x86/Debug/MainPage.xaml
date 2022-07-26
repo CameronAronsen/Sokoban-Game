@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Sokoban_Game_UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Sokoban_Game_UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="948" Width="793">
+
+    <Grid x:ConnectionId='2' x:Name="MainGrid" Background="{ThemeResource ComboBoxFocusedBackgroundThemeBrush}" Width="800" Height="950">
+        <TextBlock HorizontalAlignment="Left" Margin="32,19,0,0" Text="Move Count:" TextWrapping="Wrap" VerticalAlignment="Top" FocusVisualPrimaryBrush="Black" Foreground="Black" FontSize="28" FontFamily="Unispace" RenderTransformOrigin="0,0"/>
+        <TextBlock x:ConnectionId='3' x:Name="MoveCount" HorizontalAlignment="Left" Margin="225,19,0,0" Text="10" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Black" FontSize="28" FontFamily="Unispace" RenderTransformOrigin="0,0"/>
+        <TextBlock HorizontalAlignment="Left" Margin="302,19,0,0" Text="Arrow Keys - Move" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.5,0" Foreground="Black" FontFamily="Tahoma" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="547,19,0,0" Text="Esc - Pause" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Black" FontFamily="Tahoma" FontSize="24" RenderTransformOrigin="0.5,0"/>
+        <TextBlock HorizontalAlignment="Left" Margin="513,63,0,0" Text="Backspace - Undo" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Black" FontFamily="Tahoma" FontSize="24" RenderTransformOrigin="0.5,0"/>
+        <TextBlock HorizontalAlignment="Left" Margin="329,63,0,0" Text="Space - Reset" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Black" FontFamily="Tahoma" FontSize="24" RenderTransformOrigin="0.5,0"/>
+
+    </Grid>
+</Page>
+

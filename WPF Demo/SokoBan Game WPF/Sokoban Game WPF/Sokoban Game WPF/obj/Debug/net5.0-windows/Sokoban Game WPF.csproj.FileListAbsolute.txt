@@ -1,0 +1,26 @@
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\bin\Debug\net5.0-windows\Sokoban Game WPF.exe
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\bin\Debug\net5.0-windows\Sokoban Game WPF.deps.json
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\bin\Debug\net5.0-windows\Sokoban Game WPF.runtimeconfig.json
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\bin\Debug\net5.0-windows\Sokoban Game WPF.runtimeconfig.dev.json
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\bin\Debug\net5.0-windows\Sokoban Game WPF.dll
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\bin\Debug\net5.0-windows\ref\Sokoban Game WPF.dll
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\bin\Debug\net5.0-windows\Sokoban Game WPF.pdb
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.csprojAssemblyReference.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\App.g.cs
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF_MarkupCompile.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF_MarkupCompile.lref
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.g.resources
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.AssemblyInfoInputs.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.AssemblyInfo.cs
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.csproj.CoreCompileInputs.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.dll
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\ref\Sokoban Game WPF.dll
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.pdb
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\Sokoban Game WPF.genruntimeconfig.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\FinishScreen.g.cs
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\FinishScreen.baml
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\PauseScreen.g.cs
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\WPF Demo\SokoBan Game WPF\Sokoban Game WPF\Sokoban Game WPF\obj\Debug\net5.0-windows\PauseScreen.baml

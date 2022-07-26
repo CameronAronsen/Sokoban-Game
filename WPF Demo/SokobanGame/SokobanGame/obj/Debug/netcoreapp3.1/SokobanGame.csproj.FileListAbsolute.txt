@@ -1,0 +1,26 @@
+D:\Ara\C#\repos\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.csprojAssemblyReference.cache
+D:\Ara\C#\repos\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.AssemblyInfoInputs.cache
+D:\Ara\C#\repos\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.AssemblyInfo.cs
+D:\Ara\C#\repos\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.csproj.CoreCompileInputs.cache
+D:\Ara\C#\repos\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.exe
+D:\Ara\C#\repos\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.deps.json
+D:\Ara\C#\repos\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.runtimeconfig.json
+D:\Ara\C#\repos\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.runtimeconfig.dev.json
+D:\Ara\C#\repos\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.dll
+D:\Ara\C#\repos\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.pdb
+D:\Ara\C#\repos\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.dll
+D:\Ara\C#\repos\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.pdb
+D:\Ara\C#\repos\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.genruntimeconfig.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.exe
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.deps.json
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.runtimeconfig.json
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.runtimeconfig.dev.json
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.dll
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\bin\Debug\netcoreapp3.1\SokobanGame.pdb
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.csprojAssemblyReference.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.AssemblyInfoInputs.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.AssemblyInfo.cs
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.csproj.CoreCompileInputs.cache
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.dll
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.pdb
+D:\Ara\C#\BCDE222 Assignment 3 - Cameron Aronsen\Winforms Demo\SokobanGame\SokobanGame\obj\Debug\netcoreapp3.1\SokobanGame.genruntimeconfig.cache

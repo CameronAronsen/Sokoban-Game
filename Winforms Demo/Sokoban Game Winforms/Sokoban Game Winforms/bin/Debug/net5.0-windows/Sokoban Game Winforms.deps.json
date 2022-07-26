@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sokoban Game Winforms/1.0.0": {
+        "dependencies": {
+          "SokobanGame": "1.0.0"
+        },
+        "runtime": {
+          "Sokoban Game Winforms.dll": {}
+        }
+      },
+      "SokobanGame/1.0.0": {
+        "runtime": {
+          "SokobanGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sokoban Game Winforms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SokobanGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

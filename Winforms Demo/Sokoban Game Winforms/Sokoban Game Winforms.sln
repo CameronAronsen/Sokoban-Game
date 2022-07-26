@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sokoban Game Winforms", "Sokoban Game Winforms\Sokoban Game Winforms.csproj", "{34C95102-6172-48F3-A7ED-22104896AFA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SokobanGame", "..\SokobanGame\SokobanGame\SokobanGame.csproj", "{18D0B5D7-EE46-4823-8EFB-DC5607CDCE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C95102-6172-48F3-A7ED-22104896AFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C95102-6172-48F3-A7ED-22104896AFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C95102-6172-48F3-A7ED-22104896AFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C95102-6172-48F3-A7ED-22104896AFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D0B5D7-EE46-4823-8EFB-DC5607CDCE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D0B5D7-EE46-4823-8EFB-DC5607CDCE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D0B5D7-EE46-4823-8EFB-DC5607CDCE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D0B5D7-EE46-4823-8EFB-DC5607CDCE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0A9DE9-A0E5-46A6-9CB8-2E5FBEEAFDD7}
+	EndGlobalSection
+EndGlobal

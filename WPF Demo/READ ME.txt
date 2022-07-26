@@ -1,0 +1,7 @@
+SokoBanGame directory contains the model code
+
+SokoBan Game WPF contains the view and controller
+
+Open the solution in SokoBan Game WPF to view all the code
+
+The .exe in this directory will run the program.

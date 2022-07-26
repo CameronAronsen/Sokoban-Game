@@ -1,0 +1,7 @@
+SokoBanGame directory contains the model code
+
+SokoBan Game UWPcontains the view and controller
+
+Open the solution in SokoBan Game WPF to view all the code
+
+This doesnt have an executable to be run. So open the Sokoban UWP and run the solution provided to show off the game.
